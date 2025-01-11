@@ -1,2 +1,8 @@
+# Environment variables
 .env
+
+# Python cache
+__pycache__/
+
+# Matplotlib figures
 *.png
